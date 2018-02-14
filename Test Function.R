@@ -1,7 +1,7 @@
 ## practice pushing branch
 
 ## create some numeric vector
-x<-
+x<- 1:5
 
   
 ## use test function
@@ -11,3 +11,4 @@ test.func<-function(x){
 }
 
 test.func(x)
+
