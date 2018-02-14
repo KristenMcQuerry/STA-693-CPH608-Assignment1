@@ -1,11 +1,11 @@
 ## practice pushing branch
 
 ## create some numeric vector
-x<-
+x = pi
 
   
 ## use test function
-test.func<-function(x){
+test.func=function(x){
   y=x^2
   return(y)
 }
