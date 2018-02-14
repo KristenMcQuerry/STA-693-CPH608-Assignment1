@@ -1,7 +1,7 @@
 ## practice pushing branch
 
 ## create some numeric vector
-x<-
+x<-seq(1:7)
 
   
 ## use test function
