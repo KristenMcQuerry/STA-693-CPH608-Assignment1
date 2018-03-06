@@ -9,8 +9,8 @@ library(dplyr)
 library(tidyverse)
 library(nycflights13)
 
-## look at data
-flights
+## Look at data
+flights  
 
 #***************************** Find out flights ****************************#
 ## a. Had an arrival delay of two or more hours
